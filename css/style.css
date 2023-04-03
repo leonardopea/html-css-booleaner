@@ -3,3 +3,18 @@
    margin: 0;
    box-sizing: border-box;
 }
+
+.container{ /*lavoro sullo sfondo del logo*/
+    background-image: url(../img/pattern.png);
+    background-color: #6495ED;
+    height: 170px;
+    
+}
+
+#logo{ /*lavoro sul logo*/
+    width: 250px;
+    height: 230px;
+    margin-left: 10px;
+
+}
+
