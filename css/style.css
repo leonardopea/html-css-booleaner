@@ -30,3 +30,15 @@
     margin-top: 20px;
 
 }
+
+.row{
+    background-color: blue;
+    border-collapse: collapse;
+    border: none;
+    color: white;
+}
+
+main{
+    margin-left: 15px;
+    margin-right: 15px;
+}
