@@ -105,3 +105,44 @@ table{
 .pari{
     background-color: rgb(94, 174, 223);
 }
+
+/* inizio footer */
+
+footer{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+#foot{  /* Potrebbero interessarti */
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+}
+
+/* foto finali */
+
+.lorem_foto{
+    font-size: 22px;
+    color: white;
+    background-color: purple;
+    width: 250px;
+    height: 200px;
+    margin-top: 15px;
+    padding-top: 16px;
+    padding-left: 10px;
+
+}
+
+#lorem_foto1{
+    background-image: url(../img/monitor.jpg);
+
+}
+
+
+#lorem_foto2{
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 50px;
+   
+    
+}
