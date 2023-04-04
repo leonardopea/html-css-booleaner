@@ -15,5 +15,41 @@ header{
     height: 50px;
     margin-top: 20px;
     margin-left: 5px;
+    
    
+}
+
+main{
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+h1{
+    font-size: 60px;
+    margin-top: 10px;
+    line-height: 60px;
+   
+
+}
+
+a{
+    color:rgb(68, 89, 248);
+    text-decoration: none;
+    line-height: 20px;
+    font-weight: 600;
+
+}
+
+.grey_row{ /*coloro di grigio le scritte*/
+    color: rgb(186, 173, 173);
+}
+
+#scritto_da{ /*appensantisco font*/
+    font-weight: 800;
+    font-size: 20px;
+}
+
+#data{
+    font-size: 14px;
 }
