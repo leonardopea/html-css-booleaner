@@ -20,8 +20,8 @@ header{
 }
 
 main{
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 
 }
 
@@ -64,4 +64,44 @@ a{
     font-size: 12px;
     color: rgb(83, 81, 81);
     font-weight: 800;
+}
+
+.font_text{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.yellow_back{
+    background-color: yellow;
+}
+
+/* lista non ordinata */
+
+ul{
+    margin-top: 40px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+/* inizio tabella */
+
+table{
+    margin-top: 30px;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+#lorem{
+    width: 50%;
+}
+
+#ipsum{ /* questo è il tr del thead */
+    text-align: left;
+    background-color: blue;
+    color: white;
+    
+}
+
+.pari{
+    background-color: rgb(94, 174, 223);
 }
