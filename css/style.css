@@ -53,3 +53,15 @@ a{
 #data{
     font-size: 14px;
 }
+
+/* immagini di Tim */
+
+#Tim_1{
+    margin-top: 30px;
+}
+
+.image_source{
+    font-size: 12px;
+    color: rgb(83, 81, 81);
+    font-weight: 800;
+}
